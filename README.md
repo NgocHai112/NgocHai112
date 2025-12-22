@@ -1,18 +1,86 @@
-<h1 align="center">Hi 👋, I'm NgocHai112</h1>
-<h3 align="center">A passionate developer from VietNam</h3>
+<h1 align="center">Hi 👋, I'm Nguyen Ngoc Hai</h1>
+<h3 align="center">Final-year IT Student · Java Backend / Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngochai112&label=Profile%20views&color=0e75b6&style=flat" alt="ngochai112" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ngochai112&label=Profile%20views&color=0e75b6&style=flat" alt="ngochai112" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngochai112&show_icons=true&locale=en&layout=compact" alt="ngochai112" /></p>
+## 👋 About Me
+I am a final-year Information Technology student focusing on Java Backend and Web development.  
+I am interested in building web applications with clear structure, stable behavior, and good scalability rather than only making features that simply “work”.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngochai112&show_icons=true&locale=en" alt="ngochai112" /></p>
+During my studies and coursework, I have worked on several web projects, including an e-commerce system built with Java Spring Boot, RESTful APIs, and SQL databases, combined with Vue.js on the frontend.  
+As a student, I actively practice writing clean, maintainable code and follow Git-based teamwork workflows.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngochai112&" alt="ngochai112" /></p>
+---
+
+## ⭐ Featured Projects
+
+**Milk Tea Shop E-commerce**  
+A team-based full-stack web application built with Java Spring Boot and Vue.js.
+
+- Backend: Contributed to RESTful APIs using Spring Boot; worked with PostgreSQL / SQL Server; focused on customer-related features such as products, categories, and addresses, and collaborated with existing authentication and order flows  
+  https://github.com/Shinx99/milk-tea-ecommerce-springmvc
+
+- Frontend & UI/UX: Contributed to Vue.js components, API integration, and improved customer-facing UI/UX; worked on both customer and admin interfaces  
+  https://github.com/Shinx99/milk-tea-ecommerce-fe
+
+- Live demo: http://18.181.252.83:5173/home
+
+---
+
+## 🛠 Languages & Tools
+<p align="left">
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
+  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></a>
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngochai112&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngochai112&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngochai112" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+**Programming Languages:**  
+* Java, JavaScript, HTML/CSS
+
+**Frameworks:**  
+* Spring Boot, Spring MVC, Vue.js, Bootstrap
+
+**Databases:**  
+* PostgreSQL, SQL Server, MySQL
+
+**Tools:**  
+* GitHub, Postman, DBeaver, Figma  
+* Docker (basic), Linux (basic)
+
+**Practices:**  
+* RESTful API development, MVC pattern, CRUD operations  
+* Working with existing authentication flows
+
+---
 
