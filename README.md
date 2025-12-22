@@ -57,30 +57,19 @@ A team-based full-stack web application built with Java Spring Boot and Vue.js.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngochai112&show_icons=true" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngochai112" />
-</p>
-
 ---
 
 ## 🛠 Tech Stack
 
-**Programming Languages:**  
-* Java, JavaScript, HTML/CSS
+**Programming Languages:** Java, JavaScript, HTML/CSS
 
-**Frameworks:**  
-* Spring Boot, Spring MVC, Vue.js, Bootstrap
+**Frameworks:** Spring Boot, Spring MVC, Vue.js, Bootstrap
 
-**Databases:**  
-* PostgreSQL, SQL Server, MySQL
+**Databases:** PostgreSQL, SQL Server, MySQL
 
-**Tools:**  
-* GitHub, Postman, DBeaver, Figma  
-* Docker (basic), Linux (basic)
+**Tools:** GitHub, Postman, DBeaver, Figma, Docker (basic), Linux (basic)
 
-**Practices:**  
-* RESTful API development, MVC pattern, CRUD operations  
-* Working with existing authentication flows
+**Practices:** RESTful API development, MVC pattern, CRUD operations & Working with existing authentication flows
 
 ---
 
